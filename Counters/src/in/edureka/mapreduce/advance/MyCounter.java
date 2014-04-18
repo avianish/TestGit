@@ -1,5 +1,5 @@
 /*******************************************************************************
-   � 2014 Brain4ce Education Solutions Pvt. Ltd
+   2014 Brain4ce Education Solutions Pvt. Ltd
  ******************************************************************************/
 
 package in.edureka.mapreduce.advance;
@@ -28,7 +28,7 @@ import org.apache.hadoop.mapreduce.Mapper;
  * @version 1.0
  * @since 13-Apr-2014
  * @package in.edureka.mapreduce.advance
- * @copyright � 2014 Brain4ce Education Solutions Pvt. Ltd 
+ * @copyright 2014 Brain4ce Education Solutions Pvt. Ltd 
  * <p>MyCounter is a map only MapReduce code that uses the counter to find the 
  * frequency of the below months after analyzing dates
  * 		December
