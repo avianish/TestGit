@@ -1,8 +1,7 @@
-
 /*******************************************************************************
    � 2014 Brain4ce Education Solutions Pvt. Ltd
  ******************************************************************************/
-//jrjrjty
+
 package in.edureka.mapreduce.advance;
 
 import java.io.IOException;
