@@ -83,7 +83,7 @@ public class MyCounter {
         	//Converting the record (single line) to String and storing it in a String variable line
         	String line = value.toString();
 
-        	//Splitting line by using �,� as delimiter and storing it to array of String variable strts
+        	//Splitting line by using "," as delimiter and storing it to array of String variable strts
         	String[]  strts = line.split(",");
         	
         	//Saving the date part of the record in the variable lts of type Long 
