@@ -1,9 +1,8 @@
 
-
 /*******************************************************************************
-   © 2014 Brain4ce Education Solutions Pvt. Ltd
+   ï¿½ 2014 Brain4ce Education Solutions Pvt. Ltd
  ******************************************************************************/
-
+//jrjrjty
 package in.edureka.mapreduce.advance;
 
 import java.io.IOException;
@@ -30,7 +29,7 @@ import org.apache.hadoop.mapreduce.Mapper;
  * @version 1.0
  * @since 13-Apr-2014
  * @package in.edureka.mapreduce.advance
- * @copyright © 2014 Brain4ce Education Solutions Pvt. Ltd 
+ * @copyright ï¿½ 2014 Brain4ce Education Solutions Pvt. Ltd 
  * <p>MyCounter is a map only MapReduce code that uses the counter to find the 
  * frequency of the below months after analyzing dates
  * 		December
@@ -85,7 +84,7 @@ public class MyCounter {
         	//Converting the record (single line) to String and storing it in a String variable line
         	String line = value.toString();
 
-        	//Splitting line by using ‘,’ as delimiter and storing it to array of String variable strts
+        	//Splitting line by using ï¿½,ï¿½ as delimiter and storing it to array of String variable strts
         	String[]  strts = line.split(",");
         	
         	//Saving the date part of the record in the variable lts of type Long 
