@@ -1,5 +1,5 @@
 /*******************************************************************************
-   2014 Brain4ce Education Solutions Pvt. Ltd
+   Copyright (c) 2014 Edureka! [www.edureka.in]
  ******************************************************************************/
 
 package in.edureka.mapreduce.advance;
