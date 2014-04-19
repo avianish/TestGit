@@ -9,4 +9,4 @@ Counter MapReduce Program
 
       
     	private static IntWritable count ;
-          private Text word = new Text(); 
+      private Text word = new Text(); 
