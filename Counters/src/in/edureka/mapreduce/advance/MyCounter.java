@@ -1,5 +1,5 @@
 /*******************************************************************************
-   Copyright (c) 2014 Edureka! [www.edureka.in]
+   Copyright (c) 2014 edureka! [www.edureka.in]
  ******************************************************************************/
 
 package in.edureka.mapreduce.advance;
